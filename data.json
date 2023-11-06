@@ -1,0 +1,14 @@
+{
+    "products":[
+        {"id":"1","name":"Product 1","cokeTime":"10-20m","price":"10","description":"1kg","rate":"3.5","imageUrl":"assets/Images/1.jpg","favorite":false},
+        {"id":"2","name":"Product 2","cokeTime":"10-30m","price":"20","description":"3kg","rate":"4","imageUrl":"assets/Images/2.jpg","favorite":true},
+        {"id":"3","name":"Product 3","cokeTime":"10-40m","price":"30","description":"2kg","rate":"3","imageUrl":"assets/Images/3.jpg","favorite":false},
+        {"id":"4","name":"Product 4","cokeTime":"10-50m","price":"40","description":"4kg","rate":"4.5","imageUrl":"assets/Images/4.jpg","favorite":false},
+        {"id":"5","name":"Product 5","cokeTime":"10-20m","price":"50","description":"5kg","rate":"3","imageUrl":"assets/Images/5.jpg","favorite":true},
+        {"id":"6","name":"Product 6","cokeTime":"10-30m","price":"22","description":"6kg","rate":"4","imageUrl":"assets/Images/6.jpg","favorite":false},
+        {"id":"7","name":"Product 7","cokeTime":"10-40m","price":"33","description":"7kg","rate":"4.5","imageUrl":"assets/Images/7.jpg","favorite":true},
+        {"id":"8","name":"Product 8","cokeTime":"10-50m","price":"44","description":"8kg","rate":"3.5","imageUrl":"assets/Images/8.jpg","favorite":false},
+        {"id":"9","name":"Product 9","cokeTime":"10-30m","price":"55","description":"9kg","rate":"4","imageUrl":"assets/Images/9.jpg","favorite":true},
+        {"id":"10","name":"Product 10","cokeTime":"10-20m","price":"30","description":"2kg","rate":"4.5","imageUrl":"assets/Images/10.jpg","favorite":false}
+    ]
+}
